@@ -1,0 +1,13 @@
+---
+title: "Quality Trimming with DADA2"
+author: "Ezra Seckin"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup-Rmd, include = FALSE}
+knitr::opts_chunk$set(echo = TRUE,
+                      fig.align = "center" ,
+                      fig.path = "../figures/01_QualityTrimming")
+```
+
