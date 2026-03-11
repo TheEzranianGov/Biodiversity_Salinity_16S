@@ -3,7 +3,7 @@
     "path": "/local/workdir/eas456/Biodiversity_Salinity_16S/.gitignore",
     "project_path": ".gitignore",
     "type": "gitignore",
-    "hash": "0",
+    "hash": "2218053711",
     "contents": "",
     "dirty": false,
     "created": 1772655636914.0,
@@ -11,14 +11,16 @@
     "relative_order": 2,
     "properties": {
         "source_window_id": "",
-        "Source": "Source"
+        "Source": "Source",
+        "cursorPosition": "5,13",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1772655636,
+    "lastKnownWriteTime": 1773261162,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1772655636,
+    "last_content_update": 1773261162946,
     "read_only": false,
     "read_only_alternatives": []
 }

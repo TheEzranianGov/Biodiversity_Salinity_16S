@@ -1,0 +1,6 @@
+.Rproj.user
+data/00_raw_gzipped_fastqs/*.fastq.gz
+data/*/*.fastq.gz
+
+# Universally ignore .fastq.gz
+**/*.fastq.gz
